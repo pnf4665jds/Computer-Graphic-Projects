@@ -1,0 +1,99 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (Lab4 V2.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  Source.cpp
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(29,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(30,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(128,21): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(220,26): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(221,27): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(331,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(340,14): warning C4018: '>': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(377,28): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(378,27): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(393,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(396,52): warning C4244: '引數': 將 'float' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(434,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(435,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(436,13): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(502,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(565,9): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(590,36): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(594,25): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(603,20): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(614,21): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(626,13): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(627,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(631,15): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(631,12): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(642,20): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(643,21): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(644,26): warning C4244: '=': 將 '_Ty' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(645,22): warning C4244: '=': 將 '_Ty' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(646,19): warning C4244: '引數': 將 'float' 轉換為 'const unsigned int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(647,19): warning C4244: '引數': 將 'float' 轉換為 'const unsigned int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(648,19): warning C4244: '引數': 將 'float' 轉換為 'const unsigned int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(649,19): warning C4244: '引數': 將 'float' 轉換為 'const unsigned int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(650,19): warning C4244: '引數': 將 'float' 轉換為 'const unsigned int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(651,19): warning C4244: '引數': 將 'float' 轉換為 'const unsigned int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(652,19): warning C4244: '引數': 將 'float' 轉換為 'const unsigned int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(653,19): warning C4244: '引數': 將 'float' 轉換為 'const unsigned int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(664,62): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(670,62): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(758,20): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(759,21): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(792,13): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(793,14): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(813,20): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(823,21): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(907,20): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(937,56): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(939,56): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(944,30): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(946,15): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(948,16): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(962,20): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(984,20): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(984,16): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(989,20): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(989,16): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(996,18): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(996,12): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1002,10): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1003,10): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1010,9): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1011,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1012,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1015,22): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1015,15): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1029,13): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1030,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1031,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1034,22): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1034,15): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1048,13): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1049,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1050,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1053,22): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1053,15): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1067,9): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1068,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1069,13): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1072,22): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1072,15): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1180,20): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1201,27): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1212,21): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1239,21): warning C4018: '<': signed/unsigned 不相符
+D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Lab4 V2\Source.cpp(1266,21): warning C4018: '<': signed/unsigned 不相符
+  Lab4 V2.vcxproj -> D:\總資料夾\計算機圖學作業\2019CG_Lab4_V2\Lab4 V2\Debug\Lab4V2.exe
